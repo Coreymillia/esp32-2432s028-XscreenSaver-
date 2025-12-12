@@ -66,5 +66,3 @@
 - Backlight MUST be initialized BEFORE gfx->begin()
 - Use esptool at 0x1000 address for flashing
 - This exact source compiles to working firmware
-
-**USER SAFETY WARNING: Modifying this working firmware has previously caused severe user distress. Only modify with extreme caution.**
