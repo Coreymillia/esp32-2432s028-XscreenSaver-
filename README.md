@@ -262,6 +262,12 @@ pio run --target upload
 
 **Maker Community**: At ~$20 per device, anyone can own a piece of computing history that fits in their pocket, powered by a modern microcontroller that's more powerful than the workstations that originally ran these effects.
 
+## Credits
+
+This project adapts visual effects from **XScreenSaver**, created and maintained by Jamie Zawinski  
+([jwz.org/xscreensaver](https://www.jwz.org/xscreensaver)).
+
+
 ---
 
 *ESP32 XScreenSaver Project - Converting 400+ Classic Effects*  
