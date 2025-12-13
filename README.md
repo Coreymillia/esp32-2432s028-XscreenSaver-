@@ -73,7 +73,7 @@ esptool.exe --chip esp32 --port COM3 write_flash 0x1000 ESP32_XScreenSaver_187_E
 - **Auto-scroll timer** begins 30-second intervals
 - **Stable operation** with <20% memory usage
 
-## 📱 SD Card Loader (Experimental)
+## 📱 SD Card Loader (Abandoned)
 
 We're developing a universal SD card loader system to manage all effects dynamically:
 
@@ -81,9 +81,9 @@ We're developing a universal SD card loader system to manage all effects dynamic
 - **Goal**: Load effects from SD card files instead of compiled firmware
 - **Benefits**: Add new effects without reflashing, mix-and-match collections
 - **Challenge**: Memory constraints require careful optimization
-
-*The SD loader is currently being reworked. This 187-effect firmware represents our stable baseline.*
-
+**No longer attempting to do this. We got it to work but... there was problems no matter what we tried. But we got to 187 today and are taking a break. I think we may get close to if not 400 at this rate. If you are looking into turning your esp32 into a retro computer display. Complete with every 1990s screensavers I could find. Complete with  everything down to the loading errors. Its pretty cool. 
+  * This 187-effect firmware represents our stable baseline.*
+   
 ## 🎨 Featured Effects (187 Total)
 
 This build includes a diverse selection from the XScreenSaver collection:
