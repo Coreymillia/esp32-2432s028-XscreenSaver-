@@ -19,7 +19,7 @@ XScreenSaver has been captivating users since 1991 with over 400 mesmerizing vis
 ### 🎯 Project Goals
 1. **Complete Conversion**: Port all 400+ XScreenSaver effects to ESP32
 2. **Hardware Optimization**: Maximize performance on 320KB RAM / 4MB Flash
-3. **Universal Access**: Create an SD card loader system for easy effect management
+3. **Universal Access**: Create an SD card loader system for easy effect management(abandonded but I left the most successful loader in the project)
 4. **Documentation**: Maintain detailed progress and conversion notes
 
 ## 📊 Current Milestone: 187 Effects Working
