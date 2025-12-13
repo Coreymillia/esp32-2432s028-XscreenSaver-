@@ -273,4 +273,4 @@ This project adapts visual effects from **XScreenSaver**, created and maintained
 *ESP32 XScreenSaver Project - Converting 400+ Classic Effects*  
 *Current Milestone: 187 Effects Working (46.75% Complete)*  
 *Next Update: Effect range M-Z in development*  
-*Project Started: 2024 | Latest Update: December 2024*
+*Project Started: 2025 | Latest Update: December 2025*
